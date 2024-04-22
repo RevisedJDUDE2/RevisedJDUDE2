@@ -1,6 +1,5 @@
 # I am **Jude** <br>
-and i am a ***C And C++*** Developer in the Phillipines <br>
-well technically i am not a developer but an programer. I am 15 year old and
+and i am a ***C And C++*** Developer in the Phillipines well technically i am not a developer but an programer. I am 15 year old and
 ### My programing languages are
 * C++
 * C
