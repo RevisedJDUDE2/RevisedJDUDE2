@@ -12,3 +12,5 @@ and i am a ***C And C++*** Developer in the Phillipines well technically i am no
 * Linear Algebra
 ### Usefull Stuff:
 * [The Cherno youtube](https://youtube.com/@TheCherno?si=GIqjm2IofscPV37F)
+* [Mike Shah youtube](https://youtube.com/@MikeShah?si=jqeSdkTnkUNf5sZo)
+* [Linear Algebra 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=Jhb414EQdMtcrF2h)
