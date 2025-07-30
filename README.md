@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Hera](https://github.com/RevisedJDUDE2/Hera)
 
-- 🌱 I’m currently learning **Assembly x64**
+- 🌱 I’m currently learning **Japanese**
 
 - 👯 I’m looking to collaborate on [GLFW](https://github.com/glfw/glfw)
 
 - 📫 How to reach me **judecatanda03@gmail.com**
 
-- ⚡ Fun fact **I like mystery novels**
+- ⚡ Fun fact **I like anime and reading manga's**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Don't Connect with me:</h3>
 <p align="left">
 </p>
 
